@@ -1,6 +1,6 @@
 {
   "name": "transition-utility",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get CSS transition event or call callback on CSS transition end",
   "main": "index.js",
   "dependencies": {
