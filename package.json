@@ -1,0 +1,28 @@
+{
+  "name": "transition-utility",
+  "version": "0.0.0",
+  "description": "Get CSS transition event or call callback on CSS transition end",
+  "main": "index.js",
+  "dependencies": {
+    "bean": "^1.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubens/transition-utility.git"
+  },
+  "keywords": [
+    "css-transition",
+    "transition",
+    "events"
+  ],
+  "author": "Jakub Laptas <kontakt@kubens.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubens/transition-utility/issues"
+  },
+  "homepage": "https://github.com/kubens/transition-utility#readme"
+}
