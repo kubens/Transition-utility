@@ -43,7 +43,7 @@ module.exports = {
 	 * @return {void}
 	 */
 	onEnd: function (_element, _callback) {
-		var transitionEvent = this.getEvent();
+		var transitionEvent = this.getEndEvent();
 
 		if (transitionEvent) {
 			bean.one(_element, transitionEvent, _callback);
